@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VineetKT, an Machine Learning Enthusiast
+- 👋 Hi, I’m @VineetKT, a Machine Learning Enthusiast
 - 👀 I’m passionate about delivering ML products.
 - 🌱 I’m currently learning tensorflow and about MLops tools.
 - 💞️ I’m looking to collaborate on ml-workflow projects
