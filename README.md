@@ -2,7 +2,6 @@
 - 👀 I’m passionate about delivering ML products.
 - 🌱 I’m currently learning tensorflow and about MLops tools.
 - 💞️ I’m looking to collaborate on ml-workflow projects
-- 📫 How to reach me ...
 - Area of interests: NLP, TensorFlow, MLOps...
 
 <!---
