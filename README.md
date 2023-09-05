@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **NLP, MLOps, Document AI, Autoencoders, Anomaly Detection, TensorFlow, PyTorch**
 
-- ⚡ Fun fact **Passionate about fine arts, reading, and environmental conservation.**
+- ⚡ Fun fact **Passionate about staying at the forefront of emerging technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
